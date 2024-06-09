@@ -1,0 +1,408 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "createdAt": "12/11/2021",
+            "title": "Close off Case #012920- RODRIGUES, Amiguel",
+            "finishAt": "12/12/2021",
+            "description": "Closing off this case since this application has been cancelled. No one really understand how this case could possibly be cancelled. The options and the documents within this document were totally a guaranteed for a success!"
+        },
+        {
+            "id": 2,
+            "createdAt": "12/11/2021",
+            "title": "Close off Case #012920- RODRIGUES, Amiguel",
+            "finishAt": "12/12/2021",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "createdAt": "12/11/2021",
+            "title": "Set up documentation report for several Cases : Case 145443, Case 192829 and Case 182203",
+            "finishAt": "12/12/2021",
+            "description": "Closing off this case since this application has been cancelled. No one really understand how this case could possibly be cancelled. The options and the documents within this document were totally a guaranteed for a success!"
+        },
+        {
+            "id": 4,
+            "createdAt": "12/11/2021",
+            "title": "Set up appointment with Dr Blake",
+            "finishAt": "12/14/2021",
+            "description": "All Cases must include all payment transactions, all documents and forms filled. All conversations in comments and messages in channels and emails should be provided as well in."
+        },
+        {
+            "id": 5,
+            "createdAt": "12/11/2021",
+            "title": "Close off Case #012920- RODRIGUES, Amiguel",
+            "finishAt": "12/12/2021",
+            "description": ""
+        }
+    ],
+    "groupChats": [
+        {
+            "type": "group",
+            "groupId": 1,
+            "groupName": "109220-Naturalization",
+            "members": [
+              {
+                "userId": 1,
+                "username": "Budi Santoso"
+              },
+              {
+                "userId": 2,
+                "username": "Siti Aminah"
+              },
+              {
+                "userId": 3,
+                "username": "John Doe"
+              }
+            ],
+            "messages": [
+              {
+                "userId": 1,
+                "message": "Hi everyone! How's it going?",
+                "createdAt": "2024-06-05T10:17:00Z"
+              },
+              {
+                "userId": 2,
+                "message": "Hey there! I'm doing great, how about you?",
+                "createdAt": "2024-06-05T10:18:00Z"
+              },
+              {
+                "userId": 1,
+                "message": "I'm doing well too. What's up?",
+                "createdAt": "2024-06-05T10:19:00Z"
+              },
+              {
+                "userId": 2,
+                "message": "Just finished working on an assignment. What about you?",
+                "createdAt": "2024-06-05T10:20:00Z"
+              },
+              {
+                "userId": 1,
+                "message": "Wow, great! I just read an interesting news article.",
+                "createdAt": "2024-06-05T10:21:00Z"
+              },
+              {
+                "userId": 2,
+                "message": "What kind of news? Tell me about it!",
+                "createdAt": "2024-06-05T10:22:00Z"
+              },
+              {
+                "userId": 1,
+                "message": "It's about a new technology discovery in robotics. It's amazing!",
+                "createdAt": "2024-06-05T10:23:00Z"
+              },
+              {
+                "userId": 2,
+                "message": "Wow, that's so interesting! I love new technology. What do you think this technology can do?",
+                "createdAt": "2024-06-05T10:24:00Z"
+              },
+              {
+                "userId": 1,
+                "message": "They say it can help with many human tasks, such as cleaning the house, cooking, and even assisting with surgery.",
+                "createdAt": "2024-06-05T10:25:00Z"
+              },
+              {
+                "userId": 2,
+                "message": "Wow, that's incredibly advanced! If that's true, it will definitely change a lot of things.",
+                "createdAt": "2024-06-05T10:26:00Z"
+              },
+              {
+                "userId": 3,
+                "message": "Hi guys! I just joined. What's going on?",
+                "createdAt": "2024-06-05T10:27:00Z"
+              },
+              {
+                "userId": 1,
+                "message": "Hi! We're discussing a new technology in robotics. It's really cool!",
+                "createdAt": "2024-06-05T10:28:00Z"
+              }
+            ]
+          },
+          {
+            "type": "group",
+            "groupId": 2,
+            "groupName": "eannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+            "members": [
+                {
+                    "userId": 4,
+                    "username": "Asep Sudrajat"
+                  },
+                  {
+                    "userId": 5,
+                    "username": "Dewi Lestari"
+                  },
+                  {
+                    "userId": 6,
+                    "username": "Agus Supriyadi"
+                  },
+                  {
+                    "userId": 3,
+                    "username": "John Doe"
+                  }
+            ],
+            "messages": [
+                {
+                    "userId": 4,
+                    "message": "Meeting at 10 AM tomorrow?",
+                    "createdAt": "2024-06-04T21:52:15Z"
+                  },
+                {
+                    "userId": 4,
+                    "message": "Meeting at 10 AM tomorrow?",
+                    "createdAt": "2024-06-04T21:53:15Z"
+                  },
+                  {
+                    "userId": 5,
+                    "message": "Sure, I'll be there.",
+                    "createdAt": "2024-06-04T21:54:20Z"
+                  },
+                  {
+                    "userId": 6,
+                    "message": "Don't forget the agenda.",
+                    "createdAt": "2024-06-04T21:59:25Z"
+                  },
+                  {
+                    "userId": 3,
+                    "message": "How's it going?",
+                    "createdAt": "2024-06-04T21:57:10Z"
+                  }
+            ]
+          },
+          {
+            "type": "group",
+            "groupId": 3,
+            "groupName": "8405-Diana SALAZAR MUNGUIA",
+            "members": [
+              {
+                "userId": 4,
+                "username": "Asep Sudrajat"
+              },
+              {
+                "userId": 5,
+                "username": "Dewi Lestari"
+              },
+              {
+                "userId": 6,
+                "username": "Agus Supriyadi"
+              },
+              {
+                "userId": 3,
+                "username": "John Doe"
+              }
+            ],
+            "messages": [
+                {
+                    "userId": 4,
+                    "message": "Hey, how are you doing?",
+                    "createdAt": "2024-06-04T21:59:30Z"
+                  },
+                  {
+                    "userId": 5,
+                    "message": "I'm doing great, thanks! What about you?",
+                    "createdAt": "2024-06-04T21:50:35Z"
+                  },
+                  {
+                    "userId": 6,
+                    "message": "I'm doing well too. Just wanted to check in.",
+                    "createdAt": "2024-06-04T21:39:40Z"
+                  },
+                  {
+                    "userId": 3,
+                    "message": "How's it going?",
+                    "createdAt": "2024-06-04T21:52:10Z"
+                  },
+                  {
+                    "userId": 3,
+                    "message": "How's it going?",
+                    "createdAt": "2024-06-04T21:55:10Z"
+                  }
+            ]
+          },
+          {
+            "type": "group",
+            "groupId": 4,
+            "groupName": "FastVisa Support",
+            "members": [
+              {
+                "userId": 7,
+                "username": "Rini Kusuma"
+              },
+              {
+                "userId": 8,
+                "username": "Tono Wijaya"
+              },
+              {
+                "userId": 9,
+                "username": "Lina Marlina"
+              },
+              {
+                "userId": 3,
+                "username": "John Doe"
+              }
+            ],
+            "messages": [
+              {
+                "userId": 7,
+                "message": "Meeting at 10 AM tomorrow?",
+                "createdAt": "2024-06-04T21:38:10Z"
+              },
+              {
+                "userId": 8,
+                "message": "Sure, I'll be there.",
+                "createdAt": "2024-06-04T21:28:10Z"
+              },
+              {
+                "userId": 9,
+                "message": "Don't forget the agenda.",
+                "createdAt": "2024-06-04T21:59:10Z"
+              },
+              {
+                "userId": 3,
+                "message": "How's it going?",
+                "createdAt": "2024-06-04T21:10:10Z"
+              },
+              {
+                "userId": 3,
+                "message": "How's it going?",
+                "createdAt": "2024-06-04T21:53:10Z"
+              }
+            ]
+          }
+    ],
+    "privateFriend": [
+      {
+        "type": "private",
+        "userId1": 3,
+        "userId2": 1,
+        "username2": "Budi Santoso"
+      },
+      {
+        "type": "private",
+        "userId1": 3,
+        "userId2": 2,
+        "username2": "Siti Aminah"
+      },
+      {
+        "type": "private",
+        "userId1": 3,
+        "userId2": 4,
+        "username2": "Asep Sudrajat"
+      },
+      {
+        "type": "private",
+        "userId1": 3,
+        "userId2": 5,
+        "username2": "Dewi Lestari"
+      },
+      {
+        "type": "private",
+        "userId1": 3,
+        "userId2": 6,
+        "username2": "Agus Supriyadi"
+      },
+      {
+        "type": "private",
+        "userId1": 3,
+        "userId2": 7,
+        "username2": "Rini Kusuma"
+      },
+      {
+        "type": "private",
+        "userId1": 3,
+        "userId2": 8,
+        "username2": "Tono Wijaya"
+      },
+      {
+        "type": "private",
+        "userId1": 3,
+        "userId2": 9,
+        "username2": "Lina Marlina"
+      }
+    ],    
+    "privateChats": [
+        {
+            "type": "private",
+            "userId1": 3,
+            "username1": "user1",
+            "userId2": 2,
+            "username2": "Siti Aminah",
+            "messages": [
+                {
+                    "userId": 1,
+                    "message": "Hey, how are you doing?",
+                    "createdAt": "2024-06-04T21:52:30Z"
+                  },
+                  {
+                    "userId": 3,
+                    "message": "I'm doing great, thanks! What about you?",
+                    "createdAt": "2024-06-04T21:53:35Z"
+                  },
+                  {
+                    "userId": 1,
+                    "message": "I'm doing well too. Just wanted to check in.",
+                    "createdAt": "2024-06-04T21:56:40Z"
+                  }
+            ]
+          },
+        
+          {
+            "type": "private",
+            "userId1": 3,
+            "username1": "user4",
+            "userId2": 5,
+            "username2":"Dewi Lestari",
+            "messages": [
+              {
+                "userId": 5,
+                "message": "Hey, how are you doing?",
+                "createdAt": "2024-06-04T21:51:30Z"
+              },
+              {
+                "userId": 3,
+                "message": "I'm doing great, thanks! What about you?",
+                "createdAt": "2024-06-04T21:53:35Z"
+              },
+              {
+                "userId": 5,
+                "message": "I'm doing well too. Just wanted to check in.",
+                "createdAt": "2024-06-04T21:55:40Z"
+              },
+              {
+                "userId": 3,
+                "message": "Anything interesting going on your end?",
+                "createdAt": "2024-06-04T21:57:45Z"
+              },
+              {
+                "userId": 5,
+                "message": "Not too much, just finished reading a book. What about you?",
+                "createdAt": "2024-06-04T21:59:50Z"
+              },
+              {
+                "userId": 3,
+                "message": "Oh cool! What book was it? I'm working on a project right now, but it can wait.",
+                "createdAt": "2024-06-05T00:01:55Z"
+              },
+              {
+                "userId": 5,
+                "message": "It was called 'The Martian'. Sci-fi, really interesting story about an astronaut stranded on Mars.",
+                "createdAt": "2024-06-05T00:04:00Z"
+              },
+              {
+                "userId": 3,
+                "message": "Nice! I might have to check that out. What kind of project are you working on?",
+                "createdAt": "2024-06-05T00:06:05Z"
+              },
+              {
+                "userId": 5,
+                "message": "It's for work, nothing too exciting. Just some data analysis.",
+                "createdAt": "2024-06-05T00:08:10Z"
+              },
+              {
+                "userId": 3,
+                "message": "Ah, I see. Well, good luck with that! Maybe we can chat more later about the book or something else?",
+                "createdAt": "2024-06-05T00:10:15Z"
+              }
+            ]
+          }
+    ]
+}
