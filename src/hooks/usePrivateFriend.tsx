@@ -12,9 +12,7 @@ export const usePrivateFriend = () => {
       setPrivateFriend(data);
     };
 
-    return () => {
-      response();
-    };
+    response();
   }, []);
 
   return { privateFriend };

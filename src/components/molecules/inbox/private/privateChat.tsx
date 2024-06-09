@@ -151,7 +151,9 @@ function PrivateChat() {
       </div>
       <div className="flex-1 flex flex-col gap-5 mt-3 h-full overflow-y-scroll max-h-[500px]">
         {isLoading && sortedMessages.length === 0 ? (
-          <div className="my-10 text-center w-full">Loading</div>
+          <div className="my-10 text-center w-full">
+            <Loader w="16" h="16" />
+          </div>
         ) : sortedMessages.length === 0 ? (
           <div className="my-10 text-center w-full">There is no chats</div>
         ) : (

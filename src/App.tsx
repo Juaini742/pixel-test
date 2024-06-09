@@ -8,6 +8,7 @@ import InboxMainComponent from "./components/pages/inbox";
 
 function App() {
   const [activeComponent, setActiveComponent] = useState<string | null>(null);
+
   const routes = createBrowserRouter([
     {
       path: "/",
@@ -16,7 +17,7 @@ function App() {
           activeComponent={activeComponent}
           setActiveComponent={setActiveComponent}
         >
-          <div className=""></div>
+          <div></div>
         </Template>
       ),
     },

@@ -17,9 +17,7 @@ export const TasksProvider = ({ children }: { children: React.ReactNode }) => {
       setTasks(data);
     };
 
-    return () => {
-      response();
-    };
+    response();
   }, []);
 
   return (

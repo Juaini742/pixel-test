@@ -21,9 +21,7 @@ export const GroupChatProvider = ({
       setGroupChats(data);
     };
 
-    return () => {
-      response();
-    };
+    response();
   }, []);
 
   return (

@@ -70,7 +70,7 @@ export const getUsers = async () => {
   return data;
 };
 export const getTask = async () => {
-  const data = await get(`${url_api}/task`);
+  const data = await get(`https://pixelapi.jcraftstudio.my.id/api/task`);
   return data;
 };
 export const getGroupChats = async () => {
